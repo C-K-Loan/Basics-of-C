@@ -1,0 +1,65 @@
+
+
+--------------------------------------------------------------------------
+JOB ckurs-ws1415/users/l/loan/Blatt03/submission/ckurs_blatt03_aufgabe01.c@4109
+--------------------------------------------------------------------------
+
+Repository...: ckurs-ws1415
+Revision.....: 4109
+Submission...: users/l/loan/Blatt03/submission/ckurs_blatt03_aufgabe01.c
+Report file..: users/l/loan/Blatt03/feedback/report_ckurs_blatt03_aufgabe01_rev_004109.txt
+Author.......: loan@TU-BERLIN.DE
+Submitted....: 2014-10-16 17:36:55
+Check result.: False
+
+Ergebnis.....: NICHT ERFOLGREICH
+
+
+
+**************************************************************************
+Achtung: Die automatischen Tests waren nicht erfolgreich.
+
+Dies bedeutet, dass die Aufgabe so nicht 'bestanden' ist.
+
+Du hast noch bis zum Ende des Abgabezeitraums des Aufgabenblattes Zeit,
+um Aenderungen an der Abgabe vorzunehmen.
+
+Sobald Du eine neue Version der Datei in den submission-Ordner legst,
+wird die Abgabe erneut geprueft und ein neuer Report wie dieser erstellt.
+
+Unten findest Du die Ausgabe der Testsuite - sie sollten Dir helfen, die
+noch vorhandenen Fehler zu finden.
+
+**************************************************************************
+
+
+
+==============[ Ergebnisse der automatischen Tests ]======================
+
+
+Es wurden zu wenige oder zu viele Werte ausgegeben!Test fehlgeschlagen! Beheben Sie den Fehlen in ihrem Programmcode und reichen Sie ihre Lösung erneut ein!
+
+
+==========================================================================
+
+
+Check statistics
+----------------
+
+
+committed.......: 2014-10-16 17:36:55
+enqueued........: 2014-10-16 17:40:04
+sent to worker..: 2014-10-16 17:40:05
+returned........: 2014-10-16 17:40:25
+
+
+Performance:
+
+time after commit was detected..:      189 sec
+wait time for free worker.......:        1 sec
+check runtime...................:       20 sec
+total waiting time..............:      237 sec
+
+--------------------------------------------------------------------------
+EOF
+

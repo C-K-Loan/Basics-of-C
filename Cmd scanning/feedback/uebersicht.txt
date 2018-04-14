@@ -1,0 +1,54 @@
+
+Report fuer loan:
+=================
+
+*** ACHTUNG: VORLAEUFIGE ERGEBNISSE! ***
+
+
+
+Zusammenfassung fuer Blatt 01, Aufgabe 01
+-----------------------------------------
+
+Die automatischen Tests haben die Abgabe als erfolgreich erkannt.
+
+
+Zusammenfassung fuer Blatt 02, Aufgabe 01
+-----------------------------------------
+
+Die automatischen Tests haben die Abgabe als erfolgreich erkannt.
+
+
+Zusammenfassung fuer Blatt 03, Aufgabe 01
+-----------------------------------------
+
+Die automatischen Tests haben die Abgabe als erfolgreich erkannt.
+
+
+Zusammenfassung fuer Blatt 04, Aufgabe 01
+-----------------------------------------
+
+Die automatischen Tests haben die Abgabe als erfolgreich erkannt.
+
+
+Zusammenfassung fuer Blatt 04, Aufgabe 02
+-----------------------------------------
+
+Die automatischen Tests haben die Abgabe als erfolgreich erkannt.
+
+
+Zusammenfassung fuer Blatt 05, Aufgabe 01
+-----------------------------------------
+
+Die automatischen Tests haben die Abgabe als erfolgreich erkannt.
+
+
+Zusammenfassung fuer Blatt 06, Aufgabe 01
+-----------------------------------------
+
+Die automatischen Tests haben die Abgabe als erfolgreich erkannt.
+
+
+Zusammenfassung fuer Blatt 07, Aufgabe 01
+-----------------------------------------
+
+Die automatischen Tests haben die Abgabe als erfolgreich erkannt.

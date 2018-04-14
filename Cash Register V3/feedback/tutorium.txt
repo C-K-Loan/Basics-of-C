@@ -1,0 +1,35 @@
+
+Sehr geehrte(r) Christian Kasim Loan!
+
+Ihnen wurde für die Teilnahme an der Lehrveranstaltung
+
+  "Einführung in die Programmierung"
+
+folgendes Tutorium zugewiesen:
+
+  Gebäude/Raum: FH 312
+  Zeit:         DI 10-12
+
+Die ersten Tutorien beginnen bereits am 3. November!
+
+Bitte beachten Sie, dass ein Tausch der Termine generell nicht
+mehr möglich ist und nur noch bei Kollisionen mit anderen
+Pflichtveranstaltungen Ihres Studiums in Betracht kommt.
+
+Herzliche Grüße,
+
+  das IntroProg Team
+
+PS: Diese Datei liegt mit identischem Inhalt wieder in allen
+Feedback-Ordnern. Der Inhalt wurde ausserdem an Ihre TU-Email
+versendet: loan@campus.tu-berlin.de
+
+Sollten Sie die Datei lesen aber keine Email erhalten,
+prüfen Sie bitte die Emailweiterleitung Ihres TU-Accounts oder
+deaktivieren sie wenn möglich die Weiterleitung und lesen Sie
+die Emails direkt bei tubit.
+
+-- 
+Diese Nachricht erhalten Sie, da Sie sich für die Lehveranstaltung
+"Einführung in die Programmierung" des Fachgebiets INET angemeldet
+haben.

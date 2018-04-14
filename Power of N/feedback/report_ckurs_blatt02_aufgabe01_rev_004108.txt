@@ -1,0 +1,49 @@
+
+
+--------------------------------------------------------------------------
+JOB ckurs-ws1415/users/l/loan/Blatt02/submission/ckurs_blatt02_aufgabe01.c@4108
+--------------------------------------------------------------------------
+
+Repository...: ckurs-ws1415
+Revision.....: 4108
+Submission...: users/l/loan/Blatt02/submission/ckurs_blatt02_aufgabe01.c
+Report file..: users/l/loan/Blatt02/feedback/report_ckurs_blatt02_aufgabe01_rev_004108.txt
+Author.......: loan@TU-BERLIN.DE
+Submitted....: 2014-10-16 17:36:28
+Check result.: True
+
+Ergebnis.....: Automatische Tests erfolgreich!
+
+
+
+==============[ Ergebnisse der automatischen Tests ]======================
+
+
+
+
+Alle Test erfolgreich abgeschlossen!
+
+
+==========================================================================
+
+
+Check statistics
+----------------
+
+
+committed.......: 2014-10-16 17:36:28
+enqueued........: 2014-10-16 17:40:03
+sent to worker..: 2014-10-16 17:40:04
+returned........: 2014-10-16 17:40:24
+
+
+Performance:
+
+time after commit was detected..:      215 sec
+wait time for free worker.......:        1 sec
+check runtime...................:       20 sec
+total waiting time..............:      264 sec
+
+--------------------------------------------------------------------------
+EOF
+
